@@ -1,7 +1,0 @@
-參考自 https://github.com/dc-js/dc.leaflet.js
-
-我下載下來的他整個github資料夾:
-DC charts using Leaflet maps (範例檔在web資料夾)
-
-我編輯過後把面量統計的地圖留下來刪除其餘不需要的範例:
-Example0814_1
