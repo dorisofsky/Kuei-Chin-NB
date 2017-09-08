@@ -1,0 +1,1079 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<name>2005海棠</name>
+<Style id="point"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle></Style>
+<Placemark>
+<name>2005-07-10 20:00</name>
+<TimeSpan>
+     <begin>2005-07-10T20:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>154.9,21.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-10 26:00</name>
+<TimeSpan>
+     <begin>2005-07-10T26:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>154.2,21.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-11 08:00</name>
+<TimeSpan>
+     <begin>2005-07-11T08:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>153.6,22.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-11 14:00</name>
+<TimeSpan>
+     <begin>2005-07-11T14:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>153,22.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-11 20:00</name>
+<TimeSpan>
+     <begin>2005-07-11T20:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>152.5,22.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-11 26:00</name>
+<TimeSpan>
+     <begin>2005-07-11T26:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>151.9,23,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-12 08:00</name>
+<TimeSpan>
+     <begin>2005-07-12T08:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>151.5,23.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-12 14:00</name>
+<TimeSpan>
+     <begin>2005-07-12T14:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>151,23.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-12 20:00</name>
+<TimeSpan>
+     <begin>2005-07-12T20:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>150.4,23.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-12 26:00</name>
+<TimeSpan>
+     <begin>2005-07-12T26:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>149.8,23.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-13 08:00</name>
+<TimeSpan>
+     <begin>2005-07-13T08:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>149.2,22.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-13 14:00</name>
+<TimeSpan>
+     <begin>2005-07-13T14:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>148.3,22.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-13 20:00</name>
+<TimeSpan>
+     <begin>2005-07-13T20:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>147,21.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-13 26:00</name>
+<TimeSpan>
+     <begin>2005-07-13T26:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>145.7,21.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-14 08:00</name>
+<TimeSpan>
+     <begin>2005-07-14T08:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>144.2,20.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-14 14:00</name>
+<TimeSpan>
+     <begin>2005-07-14T14:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>142.5,20,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-14 20:00</name>
+<TimeSpan>
+     <begin>2005-07-14T20:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>140.6,19.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-14 26:00</name>
+<TimeSpan>
+     <begin>2005-07-14T26:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>138.7,19.5,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-15 08:00</name>
+<TimeSpan>
+     <begin>2005-07-15T08:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>136.7,19.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-15 14:00</name>
+<TimeSpan>
+     <begin>2005-07-15T14:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>135,19.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-15 20:00</name>
+<TimeSpan>
+     <begin>2005-07-15T20:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>133.4,19.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-15 26:00</name>
+<TimeSpan>
+     <begin>2005-07-15T26:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>131.9,19.5,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-16 08:00</name>
+<TimeSpan>
+     <begin>2005-07-16T08:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>130.4,19.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-16 14:00</name>
+<TimeSpan>
+     <begin>2005-07-16T14:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>129,20.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-16 20:00</name>
+<TimeSpan>
+     <begin>2005-07-16T20:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>127.7,20.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-16 26:00</name>
+<TimeSpan>
+     <begin>2005-07-16T26:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>126.5,20.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-17 08:00</name>
+<TimeSpan>
+     <begin>2005-07-17T08:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>125.7,21.5,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-17 14:00</name>
+<TimeSpan>
+     <begin>2005-07-17T14:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>124.9,22.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-17 20:00</name>
+<TimeSpan>
+     <begin>2005-07-17T20:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>124,23,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-17 26:00</name>
+<TimeSpan>
+     <begin>2005-07-17T26:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>122.9,23.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-18 08:00</name>
+<TimeSpan>
+     <begin>2005-07-18T08:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.7,23.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-18 14:00</name>
+<TimeSpan>
+     <begin>2005-07-18T14:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.7,23.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-18 20:00</name>
+<TimeSpan>
+     <begin>2005-07-18T20:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.1,24.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-18 26:00</name>
+<TimeSpan>
+     <begin>2005-07-18T26:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>120.7,24.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-19 08:00</name>
+<TimeSpan>
+     <begin>2005-07-19T08:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>120.4,25,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-19 14:00</name>
+<TimeSpan>
+     <begin>2005-07-19T14:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>120.1,25.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-07-19 20:00</name>
+<TimeSpan>
+     <begin>2005-07-19T20:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/16～07/20</br>
+</td></tr><tr><td>颱風名稱</td><td>2005海棠</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成部分地區淹水，多處道路坍方。有12人死亡、3人失蹤。農漁牧損失逾48億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_%e6%b5%b7%e6%a3%a0.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>119.5,26.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-10T26:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+154.9,21.9,0 154.2,21.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-11T08:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+154.2,21.9,0 153.6,22.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-11T14:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+153.6,22.1,0 153,22.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-11T20:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+153,22.3,0 152.5,22.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-11T26:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+152.5,22.7,0 151.9,23,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-12T08:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+151.9,23,0 151.5,23.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-12T14:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+151.5,23.3,0 151,23.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-12T20:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+151,23.4,0 150.4,23.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-12T26:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+150.4,23.4,0 149.8,23.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-13T08:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+149.8,23.2,0 149.2,22.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-13T14:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+149.2,22.9,0 148.3,22.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-13T20:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+148.3,22.4,0 147,21.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-13T26:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+147,21.8,0 145.7,21.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-14T08:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+145.7,21.2,0 144.2,20.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-14T14:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+144.2,20.6,0 142.5,20,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-14T20:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+142.5,20,0 140.6,19.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-14T26:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+140.6,19.8,0 138.7,19.5,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-15T08:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+138.7,19.5,0 136.7,19.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-15T14:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+136.7,19.4,0 135,19.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-15T20:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+135,19.2,0 133.4,19.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-15T26:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+133.4,19.3,0 131.9,19.5,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-16T08:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+131.9,19.5,0 130.4,19.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-16T14:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+130.4,19.9,0 129,20.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-16T20:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+129,20.3,0 127.7,20.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-16T26:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+127.7,20.7,0 126.5,20.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-17T08:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+126.5,20.9,0 125.7,21.5,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-17T14:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+125.7,21.5,0 124.9,22.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-17T20:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+124.9,22.2,0 124,23,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-17T26:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+124,23,0 122.9,23.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-18T08:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+122.9,23.7,0 121.7,23.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-18T14:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.7,23.4,0 121.7,23.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-18T20:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.7,23.9,0 121.1,24.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-18T26:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.1,24.3,0 120.7,24.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-19T08:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+120.7,24.6,0 120.4,25,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-19T14:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+120.4,25,0 120.1,25.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005海棠</name>
+<TimeSpan>
+     <begin>2005-07-19T20:00</begin>
+     <end>2005-07-19T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+120.1,25.7,0 119.5,26.6,0 
+</coordinates>
+</LineString> </Placemark><GroundOverlay>
+<name>2005海棠</name>
+<color>70ffffff</color>
+<Icon>
+<href>http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0505_海棠.png</href>
+<viewBoundScale>0.75</viewBoundScale>
+ </Icon>
+<LatLonBox>
+<north>25.70773235799075</north>
+<south>21.63852184125291</south>
+<east>122.3638832650535</east>
+<west>119.1966767800119</west>
+<rotation>0</rotation>
+</LatLonBox>
+</GroundOverlay></Document>
+</kml>

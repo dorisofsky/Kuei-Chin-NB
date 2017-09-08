@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<name>2004海馬</name>
+<Style id="point"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle></Style>
+<Placemark>
+<name>2004-09-10 26:00</name>
+<TimeSpan>
+     <begin>2004-09-10T26:00</begin>
+     <end>2004-09-13T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>09/11～09/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2004海馬</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>6</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0420_%e6%b5%b7%e9%a6%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>119.6,23,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-09-11 08:00</name>
+<TimeSpan>
+     <begin>2004-09-11T08:00</begin>
+     <end>2004-09-13T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>09/11～09/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2004海馬</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>6</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0420_%e6%b5%b7%e9%a6%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>120.1,23,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-09-11 14:00</name>
+<TimeSpan>
+     <begin>2004-09-11T14:00</begin>
+     <end>2004-09-13T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>09/11～09/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2004海馬</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>6</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0420_%e6%b5%b7%e9%a6%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>120.8,23,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-09-11 20:00</name>
+<TimeSpan>
+     <begin>2004-09-11T20:00</begin>
+     <end>2004-09-13T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>09/11～09/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2004海馬</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>6</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0420_%e6%b5%b7%e9%a6%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.8,23.5,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-09-11 26:00</name>
+<TimeSpan>
+     <begin>2004-09-11T26:00</begin>
+     <end>2004-09-13T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>09/11～09/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2004海馬</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>6</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0420_%e6%b5%b7%e9%a6%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>122.2,24.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-09-12 08:00</name>
+<TimeSpan>
+     <begin>2004-09-12T08:00</begin>
+     <end>2004-09-13T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>09/11～09/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2004海馬</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>6</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0420_%e6%b5%b7%e9%a6%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>122.2,24.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-09-12 14:00</name>
+<TimeSpan>
+     <begin>2004-09-12T14:00</begin>
+     <end>2004-09-13T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>09/11～09/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2004海馬</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>6</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0420_%e6%b5%b7%e9%a6%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>122.2,25.5,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-09-12 20:00</name>
+<TimeSpan>
+     <begin>2004-09-12T20:00</begin>
+     <end>2004-09-13T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>09/11～09/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2004海馬</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>6</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0420_%e6%b5%b7%e9%a6%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>122.1,26.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-09-12 26:00</name>
+<TimeSpan>
+     <begin>2004-09-12T26:00</begin>
+     <end>2004-09-13T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>09/11～09/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2004海馬</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>6</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0420_%e6%b5%b7%e9%a6%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.9,26.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-09-13 08:00</name>
+<TimeSpan>
+     <begin>2004-09-13T08:00</begin>
+     <end>2004-09-13T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>09/11～09/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2004海馬</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>6</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0420_%e6%b5%b7%e9%a6%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.6,27.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-09-13 14:00</name>
+<TimeSpan>
+     <begin>2004-09-13T14:00</begin>
+     <end>2004-09-13T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>09/11～09/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2004海馬</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>6</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0420_%e6%b5%b7%e9%a6%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>120.9,28,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-09-13 20:00</name>
+<TimeSpan>
+     <begin>2004-09-13T20:00</begin>
+     <end>2004-09-13T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>09/11～09/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2004海馬</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>6</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0420_%e6%b5%b7%e9%a6%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>120.1,28.5,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004海馬</name>
+<TimeSpan>
+     <begin>2004-09-11T08:00</begin>
+     <end>2004-09-13T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+119.6,23,0 120.1,23,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004海馬</name>
+<TimeSpan>
+     <begin>2004-09-11T14:00</begin>
+     <end>2004-09-13T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+120.1,23,0 120.8,23,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004海馬</name>
+<TimeSpan>
+     <begin>2004-09-11T20:00</begin>
+     <end>2004-09-13T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+120.8,23,0 121.8,23.5,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004海馬</name>
+<TimeSpan>
+     <begin>2004-09-11T26:00</begin>
+     <end>2004-09-13T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.8,23.5,0 122.2,24.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004海馬</name>
+<TimeSpan>
+     <begin>2004-09-12T08:00</begin>
+     <end>2004-09-13T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+122.2,24.2,0 122.2,24.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004海馬</name>
+<TimeSpan>
+     <begin>2004-09-12T14:00</begin>
+     <end>2004-09-13T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+122.2,24.8,0 122.2,25.5,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004海馬</name>
+<TimeSpan>
+     <begin>2004-09-12T20:00</begin>
+     <end>2004-09-13T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+122.2,25.5,0 122.1,26.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004海馬</name>
+<TimeSpan>
+     <begin>2004-09-12T26:00</begin>
+     <end>2004-09-13T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+122.1,26.1,0 121.9,26.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004海馬</name>
+<TimeSpan>
+     <begin>2004-09-13T08:00</begin>
+     <end>2004-09-13T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.9,26.7,0 121.6,27.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004海馬</name>
+<TimeSpan>
+     <begin>2004-09-13T14:00</begin>
+     <end>2004-09-13T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.6,27.3,0 120.9,28,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004海馬</name>
+<TimeSpan>
+     <begin>2004-09-13T20:00</begin>
+     <end>2004-09-13T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+120.9,28,0 120.1,28.5,0 
+</coordinates>
+</LineString> </Placemark><GroundOverlay>
+<name>2004海馬</name>
+<color>70ffffff</color>
+<Icon>
+<href>http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0420_海馬.png</href>
+<viewBoundScale>0.75</viewBoundScale>
+ </Icon>
+<LatLonBox>
+<north>25.70773235799075</north>
+<south>21.63852184125291</south>
+<east>122.3638832650535</east>
+<west>119.1966767800119</west>
+<rotation>0</rotation>
+</LatLonBox>
+</GroundOverlay></Document>
+</kml>

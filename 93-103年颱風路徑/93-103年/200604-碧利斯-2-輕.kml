@@ -1,0 +1,905 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<name>2006碧利斯</name>
+<Style id="point"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle></Style>
+<Placemark>
+<name>2006-07-07 08:00</name>
+<TimeSpan>
+     <begin>2006-07-07T08:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>143.2,9.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-07 14:00</name>
+<TimeSpan>
+     <begin>2006-07-07T14:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>143.1,10,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-07 20:00</name>
+<TimeSpan>
+     <begin>2006-07-07T20:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>142.8,10.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-07 26:00</name>
+<TimeSpan>
+     <begin>2006-07-07T26:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>142.5,10.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-08 08:00</name>
+<TimeSpan>
+     <begin>2006-07-08T08:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>142,11.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-08 14:00</name>
+<TimeSpan>
+     <begin>2006-07-08T14:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>141.1,11.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-08 20:00</name>
+<TimeSpan>
+     <begin>2006-07-08T20:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>139.7,12.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-08 26:00</name>
+<TimeSpan>
+     <begin>2006-07-08T26:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>138.2,12.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-09 08:00</name>
+<TimeSpan>
+     <begin>2006-07-09T08:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>136.7,13.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-09 14:00</name>
+<TimeSpan>
+     <begin>2006-07-09T14:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>135.7,13.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-09 20:00</name>
+<TimeSpan>
+     <begin>2006-07-09T20:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>135.1,14.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-09 26:00</name>
+<TimeSpan>
+     <begin>2006-07-09T26:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>134.4,15.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-10 08:00</name>
+<TimeSpan>
+     <begin>2006-07-10T08:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>133.5,15.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-10 14:00</name>
+<TimeSpan>
+     <begin>2006-07-10T14:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>132.5,16.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-10 20:00</name>
+<TimeSpan>
+     <begin>2006-07-10T20:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>131.4,17.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-10 26:00</name>
+<TimeSpan>
+     <begin>2006-07-10T26:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>130.6,17.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-11 08:00</name>
+<TimeSpan>
+     <begin>2006-07-11T08:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>129.8,18.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-11 14:00</name>
+<TimeSpan>
+     <begin>2006-07-11T14:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>128.9,19.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-11 20:00</name>
+<TimeSpan>
+     <begin>2006-07-11T20:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>127.9,19.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-11 26:00</name>
+<TimeSpan>
+     <begin>2006-07-11T26:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>127,20.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-12 08:00</name>
+<TimeSpan>
+     <begin>2006-07-12T08:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>126.1,21.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-12 14:00</name>
+<TimeSpan>
+     <begin>2006-07-12T14:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>125.4,21.5,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-12 20:00</name>
+<TimeSpan>
+     <begin>2006-07-12T20:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>124.7,21.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-12 26:00</name>
+<TimeSpan>
+     <begin>2006-07-12T26:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>124.3,22.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-13 08:00</name>
+<TimeSpan>
+     <begin>2006-07-13T08:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>124,23.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-13 14:00</name>
+<TimeSpan>
+     <begin>2006-07-13T14:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>123.2,24,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-13 20:00</name>
+<TimeSpan>
+     <begin>2006-07-13T20:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>122.4,24.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-13 26:00</name>
+<TimeSpan>
+     <begin>2006-07-13T26:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.4,25.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-14 08:00</name>
+<TimeSpan>
+     <begin>2006-07-14T08:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>120.4,25.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-14 14:00</name>
+<TimeSpan>
+     <begin>2006-07-14T14:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>119.3,26.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006-07-14 20:00</name>
+<TimeSpan>
+     <begin>2006-07-14T20:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>07/12～07/15</br>
+</td></tr><tr><td>颱風名稱</td><td>2006碧利斯</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td>中南部部分地區道路中斷，有3人死亡，農業損失約1.8億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_%e7%a2%a7%e5%88%a9%e6%96%af.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>118.1,27,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-07T14:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+143.2,9.6,0 143.1,10,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-07T20:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+143.1,10,0 142.8,10.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-07T26:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+142.8,10.4,0 142.5,10.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-08T08:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+142.5,10.8,0 142,11.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-08T14:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+142,11.3,0 141.1,11.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-08T20:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+141.1,11.8,0 139.7,12.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-08T26:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.7,12.4,0 138.2,12.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-09T08:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+138.2,12.8,0 136.7,13.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-09T14:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+136.7,13.1,0 135.7,13.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-09T20:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+135.7,13.6,0 135.1,14.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-09T26:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+135.1,14.4,0 134.4,15.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-10T08:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+134.4,15.2,0 133.5,15.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-10T14:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+133.5,15.9,0 132.5,16.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-10T20:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+132.5,16.6,0 131.4,17.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-10T26:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+131.4,17.4,0 130.6,17.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-11T08:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+130.6,17.9,0 129.8,18.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-11T14:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+129.8,18.4,0 128.9,19.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-11T20:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+128.9,19.1,0 127.9,19.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-11T26:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+127.9,19.8,0 127,20.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-12T08:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+127,20.6,0 126.1,21.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-12T14:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+126.1,21.1,0 125.4,21.5,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-12T20:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+125.4,21.5,0 124.7,21.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-12T26:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+124.7,21.9,0 124.3,22.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-13T08:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+124.3,22.4,0 124,23.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-13T14:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+124,23.3,0 123.2,24,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-13T20:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+123.2,24,0 122.4,24.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-13T26:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+122.4,24.8,0 121.4,25.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-14T08:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.4,25.2,0 120.4,25.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-14T14:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+120.4,25.8,0 119.3,26.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2006碧利斯</name>
+<TimeSpan>
+     <begin>2006-07-14T20:00</begin>
+     <end>2006-07-14T20:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+119.3,26.4,0 118.1,27,0 
+</coordinates>
+</LineString> </Placemark><GroundOverlay>
+<name>2006碧利斯</name>
+<color>70ffffff</color>
+<Icon>
+<href>http://140.110.141.215/ncdrjson/histyphoon/2006/Typhoon_2006_0604_碧利斯.png</href>
+<viewBoundScale>0.75</viewBoundScale>
+ </Icon>
+<LatLonBox>
+<north>25.70773235799075</north>
+<south>21.63852184125291</south>
+<east>122.3638832650535</east>
+<west>119.1966767800119</west>
+<rotation>0</rotation>
+</LatLonBox>
+</GroundOverlay></Document>
+</kml>

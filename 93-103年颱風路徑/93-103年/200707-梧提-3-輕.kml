@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<name>2007梧提</name>
+<Style id="point"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle></Style>
+<Placemark>
+<name>2007-08-06 26:00</name>
+<TimeSpan>
+     <begin>2007-08-06T26:00</begin>
+     <end>2007-08-09T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/08～08/09</br>
+</td></tr><tr><td>颱風名稱</td><td>2007梧提</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>無重大災情發生。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2007/Typhoon_2007_0707_%e6%a2%a7%e6%8f%90.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>130.2,15.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2007-08-07 08:00</name>
+<TimeSpan>
+     <begin>2007-08-07T08:00</begin>
+     <end>2007-08-09T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/08～08/09</br>
+</td></tr><tr><td>颱風名稱</td><td>2007梧提</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>無重大災情發生。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2007/Typhoon_2007_0707_%e6%a2%a7%e6%8f%90.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>129.4,16.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2007-08-07 14:00</name>
+<TimeSpan>
+     <begin>2007-08-07T14:00</begin>
+     <end>2007-08-09T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/08～08/09</br>
+</td></tr><tr><td>颱風名稱</td><td>2007梧提</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>無重大災情發生。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2007/Typhoon_2007_0707_%e6%a2%a7%e6%8f%90.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>128.7,17.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2007-08-07 20:00</name>
+<TimeSpan>
+     <begin>2007-08-07T20:00</begin>
+     <end>2007-08-09T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/08～08/09</br>
+</td></tr><tr><td>颱風名稱</td><td>2007梧提</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>無重大災情發生。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2007/Typhoon_2007_0707_%e6%a2%a7%e6%8f%90.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>128.2,18.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2007-08-07 26:00</name>
+<TimeSpan>
+     <begin>2007-08-07T26:00</begin>
+     <end>2007-08-09T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/08～08/09</br>
+</td></tr><tr><td>颱風名稱</td><td>2007梧提</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>無重大災情發生。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2007/Typhoon_2007_0707_%e6%a2%a7%e6%8f%90.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>127.2,19.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2007-08-08 08:00</name>
+<TimeSpan>
+     <begin>2007-08-08T08:00</begin>
+     <end>2007-08-09T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/08～08/09</br>
+</td></tr><tr><td>颱風名稱</td><td>2007梧提</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>無重大災情發生。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2007/Typhoon_2007_0707_%e6%a2%a7%e6%8f%90.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>125.9,20.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2007-08-08 14:00</name>
+<TimeSpan>
+     <begin>2007-08-08T14:00</begin>
+     <end>2007-08-09T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/08～08/09</br>
+</td></tr><tr><td>颱風名稱</td><td>2007梧提</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>無重大災情發生。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2007/Typhoon_2007_0707_%e6%a2%a7%e6%8f%90.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>123.7,21.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2007-08-08 20:00</name>
+<TimeSpan>
+     <begin>2007-08-08T20:00</begin>
+     <end>2007-08-09T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/08～08/09</br>
+</td></tr><tr><td>颱風名稱</td><td>2007梧提</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>無重大災情發生。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2007/Typhoon_2007_0707_%e6%a2%a7%e6%8f%90.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>122.5,22.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2007-08-08 26:00</name>
+<TimeSpan>
+     <begin>2007-08-08T26:00</begin>
+     <end>2007-08-09T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/08～08/09</br>
+</td></tr><tr><td>颱風名稱</td><td>2007梧提</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>無重大災情發生。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2007/Typhoon_2007_0707_%e6%a2%a7%e6%8f%90.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>122.2,23.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2007-08-09 08:00</name>
+<TimeSpan>
+     <begin>2007-08-09T08:00</begin>
+     <end>2007-08-09T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/08～08/09</br>
+</td></tr><tr><td>颱風名稱</td><td>2007梧提</td>
+</tr><tr><td>近台強度</td><td>輕度</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>無重大災情發生。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2007/Typhoon_2007_0707_%e6%a2%a7%e6%8f%90.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.7,23.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2007梧提</name>
+<TimeSpan>
+     <begin>2007-08-07T08:00</begin>
+     <end>2007-08-09T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+130.2,15.8,0 129.4,16.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2007梧提</name>
+<TimeSpan>
+     <begin>2007-08-07T14:00</begin>
+     <end>2007-08-09T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+129.4,16.8,0 128.7,17.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2007梧提</name>
+<TimeSpan>
+     <begin>2007-08-07T20:00</begin>
+     <end>2007-08-09T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+128.7,17.8,0 128.2,18.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2007梧提</name>
+<TimeSpan>
+     <begin>2007-08-07T26:00</begin>
+     <end>2007-08-09T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+128.2,18.7,0 127.2,19.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2007梧提</name>
+<TimeSpan>
+     <begin>2007-08-08T08:00</begin>
+     <end>2007-08-09T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+127.2,19.8,0 125.9,20.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2007梧提</name>
+<TimeSpan>
+     <begin>2007-08-08T14:00</begin>
+     <end>2007-08-09T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+125.9,20.8,0 123.7,21.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2007梧提</name>
+<TimeSpan>
+     <begin>2007-08-08T20:00</begin>
+     <end>2007-08-09T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+123.7,21.7,0 122.5,22.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2007梧提</name>
+<TimeSpan>
+     <begin>2007-08-08T26:00</begin>
+     <end>2007-08-09T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+122.5,22.8,0 122.2,23.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2007梧提</name>
+<TimeSpan>
+     <begin>2007-08-09T08:00</begin>
+     <end>2007-08-09T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+122.2,23.1,0 121.7,23.2,0 
+</coordinates>
+</LineString> </Placemark><GroundOverlay>
+<name>2007梧提</name>
+<color>70ffffff</color>
+<Icon>
+<href>http://140.110.141.215/ncdrjson/histyphoon/2007/Typhoon_2007_0707_梧提.png</href>
+<viewBoundScale>0.75</viewBoundScale>
+ </Icon>
+<LatLonBox>
+<north>25.70773235799075</north>
+<south>21.63852184125291</south>
+<east>122.3638832650535</east>
+<west>119.1966767800119</west>
+<rotation>0</rotation>
+</LatLonBox>
+</GroundOverlay></Document>
+</kml>

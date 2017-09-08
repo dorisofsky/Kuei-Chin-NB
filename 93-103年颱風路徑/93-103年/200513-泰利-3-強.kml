@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<name>2005泰利</name>
+<Style id="point"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle></Style>
+<Placemark>
+<name>2005-08-24 26:00</name>
+<TimeSpan>
+     <begin>2005-08-24T26:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>147.7,14.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-25 08:00</name>
+<TimeSpan>
+     <begin>2005-08-25T08:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>147,13.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-25 14:00</name>
+<TimeSpan>
+     <begin>2005-08-25T14:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>146.3,13.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-25 20:00</name>
+<TimeSpan>
+     <begin>2005-08-25T20:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>145.5,13,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-25 26:00</name>
+<TimeSpan>
+     <begin>2005-08-25T26:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>145,12.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-26 08:00</name>
+<TimeSpan>
+     <begin>2005-08-26T08:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>144.2,12.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-26 14:00</name>
+<TimeSpan>
+     <begin>2005-08-26T14:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>143.6,13.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-26 20:00</name>
+<TimeSpan>
+     <begin>2005-08-26T20:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>143.4,13.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-26 26:00</name>
+<TimeSpan>
+     <begin>2005-08-26T26:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>142.9,14.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-27 08:00</name>
+<TimeSpan>
+     <begin>2005-08-27T08:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>142.1,14.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-27 14:00</name>
+<TimeSpan>
+     <begin>2005-08-27T14:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>141.6,15.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-27 20:00</name>
+<TimeSpan>
+     <begin>2005-08-27T20:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>141,16.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-27 26:00</name>
+<TimeSpan>
+     <begin>2005-08-27T26:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>139.7,17.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-28 08:00</name>
+<TimeSpan>
+     <begin>2005-08-28T08:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>138.7,18.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-28 14:00</name>
+<TimeSpan>
+     <begin>2005-08-28T14:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>137.7,19.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-28 20:00</name>
+<TimeSpan>
+     <begin>2005-08-28T20:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>136.8,20,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-28 26:00</name>
+<TimeSpan>
+     <begin>2005-08-28T26:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>135.6,20.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-29 08:00</name>
+<TimeSpan>
+     <begin>2005-08-29T08:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>134.3,20.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-29 14:00</name>
+<TimeSpan>
+     <begin>2005-08-29T14:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>132.9,21,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-29 20:00</name>
+<TimeSpan>
+     <begin>2005-08-29T20:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>131.7,21,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-29 26:00</name>
+<TimeSpan>
+     <begin>2005-08-29T26:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>130.5,21.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-30 08:00</name>
+<TimeSpan>
+     <begin>2005-08-30T08:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>129.4,21.5,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-30 14:00</name>
+<TimeSpan>
+     <begin>2005-08-30T14:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>128.3,21.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-30 20:00</name>
+<TimeSpan>
+     <begin>2005-08-30T20:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>127.2,22,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-30 26:00</name>
+<TimeSpan>
+     <begin>2005-08-30T26:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>126.2,22.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-31 08:00</name>
+<TimeSpan>
+     <begin>2005-08-31T08:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>125.1,22.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-31 14:00</name>
+<TimeSpan>
+     <begin>2005-08-31T14:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>124,23.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-31 20:00</name>
+<TimeSpan>
+     <begin>2005-08-31T20:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>122.9,23.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-08-31 26:00</name>
+<TimeSpan>
+     <begin>2005-08-31T26:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.5,23.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-09-01 08:00</name>
+<TimeSpan>
+     <begin>2005-09-01T08:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>120.7,24.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-09-01 14:00</name>
+<TimeSpan>
+     <begin>2005-09-01T14:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>119.5,25.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-09-01 20:00</name>
+<TimeSpan>
+     <begin>2005-09-01T20:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>118.2,25.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005-09-01 26:00</name>
+<TimeSpan>
+     <begin>2005-09-01T26:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/30～09/01</br>
+</td></tr><tr><td>颱風名稱</td><td>2005泰利</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>3</td>
+</tr><tr><td>災害概況</td><td>受颱風環流影響有豪雨發生，造成多處道路坍方，南部部分地區淹水。有3人死亡。農漁牧損失逾16億。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_%e6%b3%b0%e5%88%a9.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>116.9,26.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-25T08:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+147.7,14.2,0 147,13.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-25T14:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+147,13.7,0 146.3,13.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-25T20:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+146.3,13.2,0 145.5,13,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-25T26:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+145.5,13,0 145,12.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-26T08:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+145,12.8,0 144.2,12.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-26T14:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+144.2,12.6,0 143.6,13.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-26T20:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+143.6,13.1,0 143.4,13.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-26T26:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+143.4,13.8,0 142.9,14.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-27T08:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+142.9,14.4,0 142.1,14.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-27T14:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+142.1,14.9,0 141.6,15.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-27T20:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+141.6,15.8,0 141,16.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-27T26:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+141,16.9,0 139.7,17.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-28T08:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.7,17.4,0 138.7,18.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-28T14:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+138.7,18.3,0 137.7,19.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-28T20:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+137.7,19.2,0 136.8,20,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-28T26:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+136.8,20,0 135.6,20.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-29T08:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+135.6,20.4,0 134.3,20.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-29T14:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+134.3,20.8,0 132.9,21,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-29T20:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+132.9,21,0 131.7,21,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-29T26:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+131.7,21,0 130.5,21.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-30T08:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+130.5,21.2,0 129.4,21.5,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-30T14:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+129.4,21.5,0 128.3,21.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-30T20:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+128.3,21.8,0 127.2,22,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-30T26:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+127.2,22,0 126.2,22.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-31T08:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+126.2,22.3,0 125.1,22.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-31T14:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+125.1,22.8,0 124,23.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-31T20:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+124,23.3,0 122.9,23.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-08-31T26:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+122.9,23.8,0 121.5,23.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-09-01T08:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.5,23.9,0 120.7,24.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-09-01T14:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+120.7,24.6,0 119.5,25.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-09-01T20:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+119.5,25.2,0 118.2,25.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2005泰利</name>
+<TimeSpan>
+     <begin>2005-09-01T26:00</begin>
+     <end>2005-09-01T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+118.2,25.8,0 116.9,26.3,0 
+</coordinates>
+</LineString> </Placemark><GroundOverlay>
+<name>2005泰利</name>
+<color>70ffffff</color>
+<Icon>
+<href>http://140.110.141.215/ncdrjson/histyphoon/2005/Typhoon_2005_0513_泰利.png</href>
+<viewBoundScale>0.75</viewBoundScale>
+ </Icon>
+<LatLonBox>
+<north>25.70773235799075</north>
+<south>21.63852184125291</south>
+<east>122.3638832650535</east>
+<west>119.1966767800119</west>
+<rotation>0</rotation>
+</LatLonBox>
+</GroundOverlay></Document>
+</kml>

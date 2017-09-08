@@ -1,0 +1,1978 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<name>2013蘇力</name>
+<Style id="point"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle></Style>
+<Placemark>
+<name>2013-07-08 08:00</name>
+<TimeSpan>
+     <begin>2013-07-08T08:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>145.5,19.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-08 14:00</name>
+<TimeSpan>
+     <begin>2013-07-08T14:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>144,19.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-08 20:00</name>
+<TimeSpan>
+     <begin>2013-07-08T20:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>142.8,19.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-09 02:00</name>
+<TimeSpan>
+     <begin>2013-07-09T02:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>141.5,19.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-09 08:00</name>
+<TimeSpan>
+     <begin>2013-07-09T08:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>140.3,19.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-09 14:00</name>
+<TimeSpan>
+     <begin>2013-07-09T14:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>139.4,19.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-09 20:00</name>
+<TimeSpan>
+     <begin>2013-07-09T20:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>138.1,20.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-10 02:00</name>
+<TimeSpan>
+     <begin>2013-07-10T02:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>137.1,20.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-10 08:00</name>
+<TimeSpan>
+     <begin>2013-07-10T08:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>135.8,21.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-10 14:00</name>
+<TimeSpan>
+     <begin>2013-07-10T14:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>134.7,21.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-10 20:00</name>
+<TimeSpan>
+     <begin>2013-07-10T20:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>133.5,21.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-11 02:00</name>
+<TimeSpan>
+     <begin>2013-07-11T02:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>132.3,22,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-11 08:00</name>
+<TimeSpan>
+     <begin>2013-07-11T08:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>130.9,22.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-11 11:00</name>
+<TimeSpan>
+     <begin>2013-07-11T11:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>130.2,22.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-11 14:00</name>
+<TimeSpan>
+     <begin>2013-07-11T14:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>129.6,22.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-11 17:00</name>
+<TimeSpan>
+     <begin>2013-07-11T17:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>129,22.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-11 20:00</name>
+<TimeSpan>
+     <begin>2013-07-11T20:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>128.4,22.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-11 21:00</name>
+<TimeSpan>
+     <begin>2013-07-11T21:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>128.3,22.5,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-11 22:00</name>
+<TimeSpan>
+     <begin>2013-07-11T22:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>127.9,22.5,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-11 23:00</name>
+<TimeSpan>
+     <begin>2013-07-11T23:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>127.7,22.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-12 00:00</name>
+<TimeSpan>
+     <begin>2013-07-12T00:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>127.4,22.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-12 01:00</name>
+<TimeSpan>
+     <begin>2013-07-12T01:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>127.2,22.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-12 02:00</name>
+<TimeSpan>
+     <begin>2013-07-12T02:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>127,22.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-12 03:00</name>
+<TimeSpan>
+     <begin>2013-07-12T03:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>126.8,22.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-12 04:00</name>
+<TimeSpan>
+     <begin>2013-07-12T04:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>126.5,22.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-12 05:00</name>
+<TimeSpan>
+     <begin>2013-07-12T05:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>126.4,22.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-12 06:00</name>
+<TimeSpan>
+     <begin>2013-07-12T06:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>126.3,22.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-12 07:00</name>
+<TimeSpan>
+     <begin>2013-07-12T07:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>126.1,22.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-12 08:00</name>
+<TimeSpan>
+     <begin>2013-07-12T08:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>125.9,22.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-12 09:00</name>
+<TimeSpan>
+     <begin>2013-07-12T09:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>125.7,22.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-12 10:00</name>
+<TimeSpan>
+     <begin>2013-07-12T10:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>125.5,22.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-12 11:00</name>
+<TimeSpan>
+     <begin>2013-07-12T11:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>125.4,23,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-12 12:00</name>
+<TimeSpan>
+     <begin>2013-07-12T12:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>125.2,23.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-12 13:00</name>
+<TimeSpan>
+     <begin>2013-07-12T13:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>125.1,23.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-12 14:00</name>
+<TimeSpan>
+     <begin>2013-07-12T14:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>124.9,23.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-12 15:00</name>
+<TimeSpan>
+     <begin>2013-07-12T15:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>124.8,23.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-12 16:00</name>
+<TimeSpan>
+     <begin>2013-07-12T16:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>124.6,23.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-12 17:00</name>
+<TimeSpan>
+     <begin>2013-07-12T17:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>124.4,23.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-12 18:00</name>
+<TimeSpan>
+     <begin>2013-07-12T18:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>124.2,23.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-12 19:00</name>
+<TimeSpan>
+     <begin>2013-07-12T19:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>123.9,23.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-12 20:00</name>
+<TimeSpan>
+     <begin>2013-07-12T20:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>123.8,23.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-12 21:00</name>
+<TimeSpan>
+     <begin>2013-07-12T21:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>123.7,23.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-12 22:00</name>
+<TimeSpan>
+     <begin>2013-07-12T22:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>123.5,24.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-12 23:00</name>
+<TimeSpan>
+     <begin>2013-07-12T23:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>123.1,24.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-13 00:00</name>
+<TimeSpan>
+     <begin>2013-07-13T00:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>122.9,24.5,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-13 01:00</name>
+<TimeSpan>
+     <begin>2013-07-13T01:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>122.7,24.5,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-13 02:00</name>
+<TimeSpan>
+     <begin>2013-07-13T02:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>122.4,24.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-13 03:00</name>
+<TimeSpan>
+     <begin>2013-07-13T03:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.9,25,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-13 04:00</name>
+<TimeSpan>
+     <begin>2013-07-13T04:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.7,25,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-13 05:00</name>
+<TimeSpan>
+     <begin>2013-07-13T05:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.5,24.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-13 06:00</name>
+<TimeSpan>
+     <begin>2013-07-13T06:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.3,24.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-13 08:00</name>
+<TimeSpan>
+     <begin>2013-07-13T08:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>120.9,24.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-13 09:00</name>
+<TimeSpan>
+     <begin>2013-07-13T09:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>120.7,25,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-13 10:00</name>
+<TimeSpan>
+     <begin>2013-07-13T10:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>120.5,25.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-13 11:00</name>
+<TimeSpan>
+     <begin>2013-07-13T11:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>120.4,25.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-13 12:00</name>
+<TimeSpan>
+     <begin>2013-07-13T12:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>120.2,25.5,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-13 13:00</name>
+<TimeSpan>
+     <begin>2013-07-13T13:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>120.1,25.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-13 14:00</name>
+<TimeSpan>
+     <begin>2013-07-13T14:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>119.9,25.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-13 15:00</name>
+<TimeSpan>
+     <begin>2013-07-13T15:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>119.8,26,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-13 16:00</name>
+<TimeSpan>
+     <begin>2013-07-13T16:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>119.4,26.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-13 17:00</name>
+<TimeSpan>
+     <begin>2013-07-13T17:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>119.4,26.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-13 18:00</name>
+<TimeSpan>
+     <begin>2013-07-13T18:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>119.2,26.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-13 19:00</name>
+<TimeSpan>
+     <begin>2013-07-13T19:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>118.9,26.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-13 20:00</name>
+<TimeSpan>
+     <begin>2013-07-13T20:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>118.7,26.5,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-13 21:00</name>
+<TimeSpan>
+     <begin>2013-07-13T21:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>118.5,26.5,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-13 22:00</name>
+<TimeSpan>
+     <begin>2013-07-13T22:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>118.1,26.5,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-13 23:00</name>
+<TimeSpan>
+     <begin>2013-07-13T23:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>117.7,26.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013-07-14 02:00</name>
+<TimeSpan>
+     <begin>2013-07-14T02:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>7/11~7/13</br>
+</td></tr><tr><td>颱風名稱</td><td>2013蘇力</td>
+</tr><tr><td>近台強度</td><td></td>
+</tr><tr><td>侵台路徑</td><td>2</td>
+</tr><tr><td>災害概況</td><td></td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_%e8%98%87%e5%8a%9b.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>117.3,27.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-08T14:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+145.5,19.1,0 144,19.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-08T20:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+144,19.2,0 142.8,19.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-09T02:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+142.8,19.3,0 141.5,19.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-09T08:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+141.5,19.4,0 140.3,19.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-09T14:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+140.3,19.9,0 139.4,19.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-09T20:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.4,19.9,0 138.1,20.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-10T02:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+138.1,20.3,0 137.1,20.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-10T08:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+137.1,20.7,0 135.8,21.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-10T14:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+135.8,21.1,0 134.7,21.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-10T20:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+134.7,21.4,0 133.5,21.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-11T02:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+133.5,21.8,0 132.3,22,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-11T08:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+132.3,22,0 130.9,22.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-11T11:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+130.9,22.1,0 130.2,22.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-11T14:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+130.2,22.2,0 129.6,22.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-11T17:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+129.6,22.3,0 129,22.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-11T20:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+129,22.3,0 128.4,22.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-11T21:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+128.4,22.4,0 128.3,22.5,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-11T22:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+128.3,22.5,0 127.9,22.5,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-11T23:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+127.9,22.5,0 127.7,22.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-12T00:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+127.7,22.6,0 127.4,22.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-12T01:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+127.4,22.6,0 127.2,22.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-12T02:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+127.2,22.6,0 127,22.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-12T03:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+127,22.7,0 126.8,22.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-12T04:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+126.8,22.7,0 126.5,22.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-12T05:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+126.5,22.7,0 126.4,22.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-12T06:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+126.4,22.7,0 126.3,22.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-12T07:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+126.3,22.7,0 126.1,22.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-12T08:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+126.1,22.8,0 125.9,22.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-12T09:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+125.9,22.9,0 125.7,22.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-12T10:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+125.7,22.9,0 125.5,22.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-12T11:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+125.5,22.9,0 125.4,23,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-12T12:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+125.4,23,0 125.2,23.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-12T13:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+125.2,23.1,0 125.1,23.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-12T14:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+125.1,23.2,0 124.9,23.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-12T15:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+124.9,23.3,0 124.8,23.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-12T16:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+124.8,23.4,0 124.6,23.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-12T17:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+124.6,23.6,0 124.4,23.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-12T18:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+124.4,23.6,0 124.2,23.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-12T19:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+124.2,23.7,0 123.9,23.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-12T20:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+123.9,23.8,0 123.8,23.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-12T21:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+123.8,23.8,0 123.7,23.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-12T22:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+123.7,23.9,0 123.5,24.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-12T23:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+123.5,24.1,0 123.1,24.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-13T00:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+123.1,24.3,0 122.9,24.5,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-13T01:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+122.9,24.5,0 122.7,24.5,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-13T02:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+122.7,24.5,0 122.4,24.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-13T03:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+122.4,24.8,0 121.9,25,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-13T04:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.9,25,0 121.7,25,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-13T05:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.7,25,0 121.5,24.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-13T06:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.5,24.9,0 121.3,24.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-13T08:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.3,24.8,0 120.9,24.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-13T09:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+120.9,24.8,0 120.7,25,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-13T10:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+120.7,25,0 120.5,25.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-13T11:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+120.5,25.1,0 120.4,25.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-13T12:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+120.4,25.3,0 120.2,25.5,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-13T13:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+120.2,25.5,0 120.1,25.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-13T14:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+120.1,25.6,0 119.9,25.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-13T15:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+119.9,25.8,0 119.8,26,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-13T16:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+119.8,26,0 119.4,26.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-13T17:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+119.4,26.3,0 119.4,26.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-13T18:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+119.4,26.4,0 119.2,26.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-13T19:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+119.2,26.4,0 118.9,26.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-13T20:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+118.9,26.4,0 118.7,26.5,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-13T21:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+118.7,26.5,0 118.5,26.5,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-13T22:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+118.5,26.5,0 118.1,26.5,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-13T23:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+118.1,26.5,0 117.7,26.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2013蘇力</name>
+<TimeSpan>
+     <begin>2013-07-14T02:00</begin>
+     <end>2013-07-14T02:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+117.7,26.6,0 117.3,27.6,0 
+</coordinates>
+</LineString> </Placemark><GroundOverlay>
+<name>2013蘇力</name>
+<color>70ffffff</color>
+<Icon>
+<href>http://140.110.141.215/ncdrjson/histyphoon/2013/Typhoon_2013_1307_蘇力.png</href>
+<viewBoundScale>0.75</viewBoundScale>
+ </Icon>
+<LatLonBox>
+<north> 25.707697</north>
+<south> 21.506281</south>
+<east>122.409273</east>
+<west>119.094066</west>
+<rotation>0</rotation>
+</LatLonBox>
+</GroundOverlay></Document>
+</kml>

@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<name>2004南瑪都</name>
+<Style id="point"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle></Style>
+<Placemark>
+<name>2004-11-28 08:00</name>
+<TimeSpan>
+     <begin>2004-11-28T08:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>12/03～12/04</br>
+</td></tr><tr><td>颱風名稱</td><td>2004南瑪都</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受颱風環流與東北季風的共伴效應影響，北部及東半部有豪雨發生，花蓮布洛灣累積雨量達1090毫米，部分地區道路坍方。有2人死亡、2人失蹤，農林漁牧損失約6.7億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>153.1,5.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-11-28 14:00</name>
+<TimeSpan>
+     <begin>2004-11-28T14:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>12/03～12/04</br>
+</td></tr><tr><td>颱風名稱</td><td>2004南瑪都</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受颱風環流與東北季風的共伴效應影響，北部及東半部有豪雨發生，花蓮布洛灣累積雨量達1090毫米，部分地區道路坍方。有2人死亡、2人失蹤，農林漁牧損失約6.7億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>151.8,5.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-11-28 20:00</name>
+<TimeSpan>
+     <begin>2004-11-28T20:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>12/03～12/04</br>
+</td></tr><tr><td>颱風名稱</td><td>2004南瑪都</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受颱風環流與東北季風的共伴效應影響，北部及東半部有豪雨發生，花蓮布洛灣累積雨量達1090毫米，部分地區道路坍方。有2人死亡、2人失蹤，農林漁牧損失約6.7億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>150.5,5.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-11-28 26:00</name>
+<TimeSpan>
+     <begin>2004-11-28T26:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>12/03～12/04</br>
+</td></tr><tr><td>颱風名稱</td><td>2004南瑪都</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受颱風環流與東北季風的共伴效應影響，北部及東半部有豪雨發生，花蓮布洛灣累積雨量達1090毫米，部分地區道路坍方。有2人死亡、2人失蹤，農林漁牧損失約6.7億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>149.2,6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-11-29 08:00</name>
+<TimeSpan>
+     <begin>2004-11-29T08:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>12/03～12/04</br>
+</td></tr><tr><td>颱風名稱</td><td>2004南瑪都</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受颱風環流與東北季風的共伴效應影響，北部及東半部有豪雨發生，花蓮布洛灣累積雨量達1090毫米，部分地區道路坍方。有2人死亡、2人失蹤，農林漁牧損失約6.7億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>147.8,6.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-11-29 14:00</name>
+<TimeSpan>
+     <begin>2004-11-29T14:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>12/03～12/04</br>
+</td></tr><tr><td>颱風名稱</td><td>2004南瑪都</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受颱風環流與東北季風的共伴效應影響，北部及東半部有豪雨發生，花蓮布洛灣累積雨量達1090毫米，部分地區道路坍方。有2人死亡、2人失蹤，農林漁牧損失約6.7億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>146,6.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-11-29 20:00</name>
+<TimeSpan>
+     <begin>2004-11-29T20:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>12/03～12/04</br>
+</td></tr><tr><td>颱風名稱</td><td>2004南瑪都</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受颱風環流與東北季風的共伴效應影響，北部及東半部有豪雨發生，花蓮布洛灣累積雨量達1090毫米，部分地區道路坍方。有2人死亡、2人失蹤，農林漁牧損失約6.7億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>144.1,7.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-11-29 26:00</name>
+<TimeSpan>
+     <begin>2004-11-29T26:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>12/03～12/04</br>
+</td></tr><tr><td>颱風名稱</td><td>2004南瑪都</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受颱風環流與東北季風的共伴效應影響，北部及東半部有豪雨發生，花蓮布洛灣累積雨量達1090毫米，部分地區道路坍方。有2人死亡、2人失蹤，農林漁牧損失約6.7億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>142.7,7.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-11-30 08:00</name>
+<TimeSpan>
+     <begin>2004-11-30T08:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>12/03～12/04</br>
+</td></tr><tr><td>颱風名稱</td><td>2004南瑪都</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受颱風環流與東北季風的共伴效應影響，北部及東半部有豪雨發生，花蓮布洛灣累積雨量達1090毫米，部分地區道路坍方。有2人死亡、2人失蹤，農林漁牧損失約6.7億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>141,8.5,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-11-30 14:00</name>
+<TimeSpan>
+     <begin>2004-11-30T14:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>12/03～12/04</br>
+</td></tr><tr><td>颱風名稱</td><td>2004南瑪都</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受颱風環流與東北季風的共伴效應影響，北部及東半部有豪雨發生，花蓮布洛灣累積雨量達1090毫米，部分地區道路坍方。有2人死亡、2人失蹤，農林漁牧損失約6.7億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>139.1,9.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-11-30 20:00</name>
+<TimeSpan>
+     <begin>2004-11-30T20:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>12/03～12/04</br>
+</td></tr><tr><td>颱風名稱</td><td>2004南瑪都</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受颱風環流與東北季風的共伴效應影響，北部及東半部有豪雨發生，花蓮布洛灣累積雨量達1090毫米，部分地區道路坍方。有2人死亡、2人失蹤，農林漁牧損失約6.7億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>137.1,10,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-11-30 26:00</name>
+<TimeSpan>
+     <begin>2004-11-30T26:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>12/03～12/04</br>
+</td></tr><tr><td>颱風名稱</td><td>2004南瑪都</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受颱風環流與東北季風的共伴效應影響，北部及東半部有豪雨發生，花蓮布洛灣累積雨量達1090毫米，部分地區道路坍方。有2人死亡、2人失蹤，農林漁牧損失約6.7億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>135,10.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-12-01 08:00</name>
+<TimeSpan>
+     <begin>2004-12-01T08:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>12/03～12/04</br>
+</td></tr><tr><td>颱風名稱</td><td>2004南瑪都</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受颱風環流與東北季風的共伴效應影響，北部及東半部有豪雨發生，花蓮布洛灣累積雨量達1090毫米，部分地區道路坍方。有2人死亡、2人失蹤，農林漁牧損失約6.7億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>132.8,11.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-12-01 14:00</name>
+<TimeSpan>
+     <begin>2004-12-01T14:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>12/03～12/04</br>
+</td></tr><tr><td>颱風名稱</td><td>2004南瑪都</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受颱風環流與東北季風的共伴效應影響，北部及東半部有豪雨發生，花蓮布洛灣累積雨量達1090毫米，部分地區道路坍方。有2人死亡、2人失蹤，農林漁牧損失約6.7億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>130.7,12.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-12-01 20:00</name>
+<TimeSpan>
+     <begin>2004-12-01T20:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>12/03～12/04</br>
+</td></tr><tr><td>颱風名稱</td><td>2004南瑪都</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受颱風環流與東北季風的共伴效應影響，北部及東半部有豪雨發生，花蓮布洛灣累積雨量達1090毫米，部分地區道路坍方。有2人死亡、2人失蹤，農林漁牧損失約6.7億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>128.6,13,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-12-01 26:00</name>
+<TimeSpan>
+     <begin>2004-12-01T26:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>12/03～12/04</br>
+</td></tr><tr><td>颱風名稱</td><td>2004南瑪都</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受颱風環流與東北季風的共伴效應影響，北部及東半部有豪雨發生，花蓮布洛灣累積雨量達1090毫米，部分地區道路坍方。有2人死亡、2人失蹤，農林漁牧損失約6.7億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>126.7,13.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-12-02 08:00</name>
+<TimeSpan>
+     <begin>2004-12-02T08:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>12/03～12/04</br>
+</td></tr><tr><td>颱風名稱</td><td>2004南瑪都</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受颱風環流與東北季風的共伴效應影響，北部及東半部有豪雨發生，花蓮布洛灣累積雨量達1090毫米，部分地區道路坍方。有2人死亡、2人失蹤，農林漁牧損失約6.7億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>125,14.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-12-02 14:00</name>
+<TimeSpan>
+     <begin>2004-12-02T14:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>12/03～12/04</br>
+</td></tr><tr><td>颱風名稱</td><td>2004南瑪都</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受颱風環流與東北季風的共伴效應影響，北部及東半部有豪雨發生，花蓮布洛灣累積雨量達1090毫米，部分地區道路坍方。有2人死亡、2人失蹤，農林漁牧損失約6.7億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>123.4,14.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-12-02 20:00</name>
+<TimeSpan>
+     <begin>2004-12-02T20:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>12/03～12/04</br>
+</td></tr><tr><td>颱風名稱</td><td>2004南瑪都</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受颱風環流與東北季風的共伴效應影響，北部及東半部有豪雨發生，花蓮布洛灣累積雨量達1090毫米，部分地區道路坍方。有2人死亡、2人失蹤，農林漁牧損失約6.7億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.9,15.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-12-02 26:00</name>
+<TimeSpan>
+     <begin>2004-12-02T26:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>12/03～12/04</br>
+</td></tr><tr><td>颱風名稱</td><td>2004南瑪都</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受颱風環流與東北季風的共伴效應影響，北部及東半部有豪雨發生，花蓮布洛灣累積雨量達1090毫米，部分地區道路坍方。有2人死亡、2人失蹤，農林漁牧損失約6.7億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>120,17,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-12-03 08:00</name>
+<TimeSpan>
+     <begin>2004-12-03T08:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>12/03～12/04</br>
+</td></tr><tr><td>颱風名稱</td><td>2004南瑪都</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受颱風環流與東北季風的共伴效應影響，北部及東半部有豪雨發生，花蓮布洛灣累積雨量達1090毫米，部分地區道路坍方。有2人死亡、2人失蹤，農林漁牧損失約6.7億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>119,17.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-12-03 14:00</name>
+<TimeSpan>
+     <begin>2004-12-03T14:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>12/03～12/04</br>
+</td></tr><tr><td>颱風名稱</td><td>2004南瑪都</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受颱風環流與東北季風的共伴效應影響，北部及東半部有豪雨發生，花蓮布洛灣累積雨量達1090毫米，部分地區道路坍方。有2人死亡、2人失蹤，農林漁牧損失約6.7億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>118.5,19.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-12-03 20:00</name>
+<TimeSpan>
+     <begin>2004-12-03T20:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>12/03～12/04</br>
+</td></tr><tr><td>颱風名稱</td><td>2004南瑪都</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受颱風環流與東北季風的共伴效應影響，北部及東半部有豪雨發生，花蓮布洛灣累積雨量達1090毫米，部分地區道路坍方。有2人死亡、2人失蹤，農林漁牧損失約6.7億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>118.3,20.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-12-03 26:00</name>
+<TimeSpan>
+     <begin>2004-12-03T26:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>12/03～12/04</br>
+</td></tr><tr><td>颱風名稱</td><td>2004南瑪都</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受颱風環流與東北季風的共伴效應影響，北部及東半部有豪雨發生，花蓮布洛灣累積雨量達1090毫米，部分地區道路坍方。有2人死亡、2人失蹤，農林漁牧損失約6.7億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>119.1,21.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004-12-04 08:00</name>
+<TimeSpan>
+     <begin>2004-12-04T08:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>12/03～12/04</br>
+</td></tr><tr><td>颱風名稱</td><td>2004南瑪都</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受颱風環流與東北季風的共伴效應影響，北部及東半部有豪雨發生，花蓮布洛灣累積雨量達1090毫米，部分地區道路坍方。有2人死亡、2人失蹤，農林漁牧損失約6.7億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>120.2,22.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2004南瑪都</name>
+<TimeSpan>
+     <begin>2004-11-28T14:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+153.1,5.4,0 151.8,5.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004南瑪都</name>
+<TimeSpan>
+     <begin>2004-11-28T20:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+151.8,5.6,0 150.5,5.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004南瑪都</name>
+<TimeSpan>
+     <begin>2004-11-28T26:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+150.5,5.8,0 149.2,6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004南瑪都</name>
+<TimeSpan>
+     <begin>2004-11-29T08:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+149.2,6,0 147.8,6.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004南瑪都</name>
+<TimeSpan>
+     <begin>2004-11-29T14:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+147.8,6.3,0 146,6.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004南瑪都</name>
+<TimeSpan>
+     <begin>2004-11-29T20:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+146,6.9,0 144.1,7.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004南瑪都</name>
+<TimeSpan>
+     <begin>2004-11-29T26:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+144.1,7.1,0 142.7,7.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004南瑪都</name>
+<TimeSpan>
+     <begin>2004-11-30T08:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+142.7,7.7,0 141,8.5,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004南瑪都</name>
+<TimeSpan>
+     <begin>2004-11-30T14:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+141,8.5,0 139.1,9.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004南瑪都</name>
+<TimeSpan>
+     <begin>2004-11-30T20:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.1,9.3,0 137.1,10,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004南瑪都</name>
+<TimeSpan>
+     <begin>2004-11-30T26:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+137.1,10,0 135,10.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004南瑪都</name>
+<TimeSpan>
+     <begin>2004-12-01T08:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+135,10.8,0 132.8,11.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004南瑪都</name>
+<TimeSpan>
+     <begin>2004-12-01T14:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+132.8,11.6,0 130.7,12.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004南瑪都</name>
+<TimeSpan>
+     <begin>2004-12-01T20:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+130.7,12.3,0 128.6,13,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004南瑪都</name>
+<TimeSpan>
+     <begin>2004-12-01T26:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+128.6,13,0 126.7,13.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004南瑪都</name>
+<TimeSpan>
+     <begin>2004-12-02T08:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+126.7,13.7,0 125,14.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004南瑪都</name>
+<TimeSpan>
+     <begin>2004-12-02T14:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+125,14.3,0 123.4,14.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004南瑪都</name>
+<TimeSpan>
+     <begin>2004-12-02T20:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+123.4,14.9,0 121.9,15.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004南瑪都</name>
+<TimeSpan>
+     <begin>2004-12-02T26:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.9,15.8,0 120,17,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004南瑪都</name>
+<TimeSpan>
+     <begin>2004-12-03T08:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+120,17,0 119,17.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004南瑪都</name>
+<TimeSpan>
+     <begin>2004-12-03T14:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+119,17.9,0 118.5,19.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004南瑪都</name>
+<TimeSpan>
+     <begin>2004-12-03T20:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+118.5,19.3,0 118.3,20.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004南瑪都</name>
+<TimeSpan>
+     <begin>2004-12-03T26:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+118.3,20.2,0 119.1,21.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2004南瑪都</name>
+<TimeSpan>
+     <begin>2004-12-04T08:00</begin>
+     <end>2004-12-04T08:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+119.1,21.3,0 120.2,22.4,0 
+</coordinates>
+</LineString> </Placemark><GroundOverlay>
+<name>2004南瑪都</name>
+<color>70ffffff</color>
+<Icon>
+<href>http://140.110.141.215/ncdrjson/histyphoon/2004/Typhoon_2004_0427_南瑪都.png</href>
+<viewBoundScale>0.75</viewBoundScale>
+ </Icon>
+<LatLonBox>
+<north>25.70773235799075</north>
+<south>21.63852184125291</south>
+<east>122.3638832650535</east>
+<west>119.1966767800119</west>
+<rotation>0</rotation>
+</LatLonBox>
+</GroundOverlay></Document>
+</kml>

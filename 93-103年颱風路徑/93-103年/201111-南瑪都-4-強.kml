@@ -1,0 +1,2036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<name>2011南瑪都</name>
+<Style id="point"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle></Style>
+<Placemark>
+<name>2011-08-22 20:00</name>
+<TimeSpan>
+     <begin>2011-08-22T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>127.8,15.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-22 26:00</name>
+<TimeSpan>
+     <begin>2011-08-22T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>127.8,15.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-23 08:00</name>
+<TimeSpan>
+     <begin>2011-08-23T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>127.7,15.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-23 14:00</name>
+<TimeSpan>
+     <begin>2011-08-23T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>127.7,15.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-23 20:00</name>
+<TimeSpan>
+     <begin>2011-08-23T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>127.5,15.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-23 26:00</name>
+<TimeSpan>
+     <begin>2011-08-23T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>127.2,15.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-24 08:00</name>
+<TimeSpan>
+     <begin>2011-08-24T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>127,15.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-24 14:00</name>
+<TimeSpan>
+     <begin>2011-08-24T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>126.7,15.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-24 14:00</name>
+<TimeSpan>
+     <begin>2011-08-24T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>126.7,15.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-24 20:00</name>
+<TimeSpan>
+     <begin>2011-08-24T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>126.4,15.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-24 20:00</name>
+<TimeSpan>
+     <begin>2011-08-24T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>126.4,15.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-24 26:00</name>
+<TimeSpan>
+     <begin>2011-08-24T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>126,15.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-24 26:00</name>
+<TimeSpan>
+     <begin>2011-08-24T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>126,15.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-25 08:00</name>
+<TimeSpan>
+     <begin>2011-08-25T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>125.6,16.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-25 08:00</name>
+<TimeSpan>
+     <begin>2011-08-25T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>125.6,16.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-25 08:00</name>
+<TimeSpan>
+     <begin>2011-08-25T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>125.6,16.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-25 14:00</name>
+<TimeSpan>
+     <begin>2011-08-25T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>125.2,16.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-25 14:00</name>
+<TimeSpan>
+     <begin>2011-08-25T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>125.2,16.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-25 14:00</name>
+<TimeSpan>
+     <begin>2011-08-25T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>125.2,16.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-25 20:00</name>
+<TimeSpan>
+     <begin>2011-08-25T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>124.6,16.5,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-25 20:00</name>
+<TimeSpan>
+     <begin>2011-08-25T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>124.6,16.5,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-25 20:00</name>
+<TimeSpan>
+     <begin>2011-08-25T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>124.6,16.5,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-25 26:00</name>
+<TimeSpan>
+     <begin>2011-08-25T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>124.2,16.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-25 26:00</name>
+<TimeSpan>
+     <begin>2011-08-25T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>124.2,16.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-25 26:00</name>
+<TimeSpan>
+     <begin>2011-08-25T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>124.2,16.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-26 08:00</name>
+<TimeSpan>
+     <begin>2011-08-26T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>123.9,16.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-26 08:00</name>
+<TimeSpan>
+     <begin>2011-08-26T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>123.9,16.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-26 08:00</name>
+<TimeSpan>
+     <begin>2011-08-26T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>123.9,16.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-26 14:00</name>
+<TimeSpan>
+     <begin>2011-08-26T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>123.6,17.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-26 14:00</name>
+<TimeSpan>
+     <begin>2011-08-26T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>123.6,17.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-26 14:00</name>
+<TimeSpan>
+     <begin>2011-08-26T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>123.6,17.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-26 20:00</name>
+<TimeSpan>
+     <begin>2011-08-26T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>123.3,17.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-26 20:00</name>
+<TimeSpan>
+     <begin>2011-08-26T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>123.3,17.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-26 20:00</name>
+<TimeSpan>
+     <begin>2011-08-26T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>123.3,17.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-26 26:00</name>
+<TimeSpan>
+     <begin>2011-08-26T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>122.7,18,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-26 26:00</name>
+<TimeSpan>
+     <begin>2011-08-26T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>122.7,18,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-26 26:00</name>
+<TimeSpan>
+     <begin>2011-08-26T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>122.7,18,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-27 08:00</name>
+<TimeSpan>
+     <begin>2011-08-27T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>122.4,18.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-27 08:00</name>
+<TimeSpan>
+     <begin>2011-08-27T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>122.4,18.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-27 08:00</name>
+<TimeSpan>
+     <begin>2011-08-27T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>122.4,18.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-27 14:00</name>
+<TimeSpan>
+     <begin>2011-08-27T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>122,18.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-27 14:00</name>
+<TimeSpan>
+     <begin>2011-08-27T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>122,18.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-27 14:00</name>
+<TimeSpan>
+     <begin>2011-08-27T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>122,18.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-27 20:00</name>
+<TimeSpan>
+     <begin>2011-08-27T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.7,19.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-27 20:00</name>
+<TimeSpan>
+     <begin>2011-08-27T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.7,19.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-27 20:00</name>
+<TimeSpan>
+     <begin>2011-08-27T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.7,19.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-27 26:00</name>
+<TimeSpan>
+     <begin>2011-08-27T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.5,19.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-27 26:00</name>
+<TimeSpan>
+     <begin>2011-08-27T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.5,19.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-27 26:00</name>
+<TimeSpan>
+     <begin>2011-08-27T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.5,19.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-28 08:00</name>
+<TimeSpan>
+     <begin>2011-08-28T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.3,20.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-28 08:00</name>
+<TimeSpan>
+     <begin>2011-08-28T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.3,20.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-28 08:00</name>
+<TimeSpan>
+     <begin>2011-08-28T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.3,20.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-28 14:00</name>
+<TimeSpan>
+     <begin>2011-08-28T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.1,21,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-28 14:00</name>
+<TimeSpan>
+     <begin>2011-08-28T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.1,21,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-28 14:00</name>
+<TimeSpan>
+     <begin>2011-08-28T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.1,21,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-28 20:00</name>
+<TimeSpan>
+     <begin>2011-08-28T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121,21.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-28 20:00</name>
+<TimeSpan>
+     <begin>2011-08-28T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121,21.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-28 20:00</name>
+<TimeSpan>
+     <begin>2011-08-28T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121,21.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-28 26:00</name>
+<TimeSpan>
+     <begin>2011-08-28T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>120.9,22.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-28 26:00</name>
+<TimeSpan>
+     <begin>2011-08-28T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>120.9,22.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-28 26:00</name>
+<TimeSpan>
+     <begin>2011-08-28T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>120.9,22.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-29 08:00</name>
+<TimeSpan>
+     <begin>2011-08-29T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>120.5,22.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-29 08:00</name>
+<TimeSpan>
+     <begin>2011-08-29T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>120.5,22.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-29 14:00</name>
+<TimeSpan>
+     <begin>2011-08-29T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>120,23.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-29 20:00</name>
+<TimeSpan>
+     <begin>2011-08-29T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>119.6,23.5,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-29 26:00</name>
+<TimeSpan>
+     <begin>2011-08-29T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>119.3,23.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-30 08:00</name>
+<TimeSpan>
+     <begin>2011-08-30T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>119.2,24.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-30 14:00</name>
+<TimeSpan>
+     <begin>2011-08-30T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>119.2,24.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-30 20:00</name>
+<TimeSpan>
+     <begin>2011-08-30T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>119.1,24.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011-08-30 26:00</name>
+<TimeSpan>
+     <begin>2011-08-30T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>08/27～08/31</br>
+</td></tr><tr><td>颱風名稱</td><td>2011南瑪都</td>
+</tr><tr><td>近台強度</td><td>強烈</td>
+</tr><tr><td>侵台路徑</td><td>4</td>
+</tr><tr><td>災害概況</td><td> </td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_%e5%8d%97%e7%91%aa%e9%83%bd.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>119,24.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-22T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+127.8,15.6,0 127.8,15.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-23T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+127.8,15.6,0 127.7,15.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-23T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+127.7,15.6,0 127.7,15.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-23T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+127.7,15.7,0 127.5,15.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-23T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+127.5,15.7,0 127.2,15.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-24T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+127.2,15.7,0 127,15.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-24T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+127,15.9,0 126.7,15.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-24T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+126.7,15.8,0 126.7,15.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-24T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+126.7,15.8,0 126.4,15.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-24T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+126.4,15.8,0 126.4,15.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-24T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+126.4,15.8,0 126,15.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-24T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+126,15.9,0 126,15.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-25T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+126,15.9,0 125.6,16.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-25T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+125.6,16.1,0 125.6,16.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-25T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+125.6,16.1,0 125.6,16.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-25T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+125.6,16.1,0 125.2,16.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-25T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+125.2,16.3,0 125.2,16.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-25T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+125.2,16.3,0 125.2,16.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-25T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+125.2,16.3,0 124.6,16.5,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-25T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+124.6,16.5,0 124.6,16.5,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-25T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+124.6,16.5,0 124.6,16.5,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-25T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+124.6,16.5,0 124.2,16.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-25T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+124.2,16.4,0 124.2,16.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-25T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+124.2,16.4,0 124.2,16.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-26T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+124.2,16.4,0 123.9,16.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-26T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+123.9,16.7,0 123.9,16.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-26T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+123.9,16.7,0 123.9,16.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-26T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+123.9,16.7,0 123.6,17.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-26T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+123.6,17.2,0 123.6,17.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-26T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+123.6,17.2,0 123.6,17.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-26T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+123.6,17.2,0 123.3,17.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-26T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+123.3,17.6,0 123.3,17.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-26T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+123.3,17.6,0 123.3,17.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-26T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+123.3,17.6,0 122.7,18,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-26T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+122.7,18,0 122.7,18,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-26T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+122.7,18,0 122.7,18,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-27T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+122.7,18,0 122.4,18.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-27T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+122.4,18.1,0 122.4,18.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-27T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+122.4,18.1,0 122.4,18.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-27T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+122.4,18.1,0 122,18.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-27T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+122,18.6,0 122,18.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-27T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+122,18.6,0 122,18.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-27T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+122,18.6,0 121.7,19.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-27T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.7,19.2,0 121.7,19.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-27T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.7,19.2,0 121.7,19.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-27T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.7,19.2,0 121.5,19.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-27T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.5,19.6,0 121.5,19.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-27T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.5,19.6,0 121.5,19.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-28T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.5,19.6,0 121.3,20.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-28T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.3,20.2,0 121.3,20.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-28T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.3,20.2,0 121.3,20.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-28T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.3,20.2,0 121.1,21,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-28T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.1,21,0 121.1,21,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-28T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.1,21,0 121.1,21,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-28T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.1,21,0 121,21.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-28T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121,21.6,0 121,21.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-28T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121,21.6,0 121,21.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-28T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121,21.6,0 120.9,22.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-28T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+120.9,22.2,0 120.9,22.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-28T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+120.9,22.2,0 120.9,22.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-29T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+120.9,22.2,0 120.5,22.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-29T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+120.5,22.7,0 120.5,22.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-29T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+120.5,22.7,0 120,23.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-29T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+120,23.2,0 119.6,23.5,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-29T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+119.6,23.5,0 119.3,23.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-30T08:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+119.3,23.9,0 119.2,24.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-30T14:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+119.2,24.1,0 119.2,24.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-30T20:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+119.2,24.3,0 119.1,24.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2011南瑪都</name>
+<TimeSpan>
+     <begin>2011-08-30T26:00</begin>
+     <end>2011-08-30T26:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+119.1,24.4,0 119,24.4,0 
+</coordinates>
+</LineString> </Placemark><GroundOverlay>
+<name>2011南瑪都</name>
+<color>70ffffff</color>
+<Icon>
+<href>http://140.110.141.215/ncdrjson/histyphoon/2011/Typhoon_2011_1111_南瑪都.png</href>
+<viewBoundScale>0.75</viewBoundScale>
+ </Icon>
+<LatLonBox>
+<north>25.70773235799075</north>
+<south>21.63852184125291</south>
+<east>122.3638832650535</east>
+<west>119.1966767800119</west>
+<rotation>0</rotation>
+</LatLonBox>
+</GroundOverlay></Document>
+</kml>

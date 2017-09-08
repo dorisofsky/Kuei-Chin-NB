@@ -1,0 +1,1514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+<name>2010梅姬</name>
+<Style id="point"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle></Style>
+<Placemark>
+<name>2010-10-11 20:00</name>
+<TimeSpan>
+     <begin>2010-10-11T20:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>145,12.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-11 26:00</name>
+<TimeSpan>
+     <begin>2010-10-11T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>144.3,12.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-12 08:00</name>
+<TimeSpan>
+     <begin>2010-10-12T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>143.5,12.5,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-12 14:00</name>
+<TimeSpan>
+     <begin>2010-10-12T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>142.8,12.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-12 20:00</name>
+<TimeSpan>
+     <begin>2010-10-12T20:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>142.1,12.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-12 26:00</name>
+<TimeSpan>
+     <begin>2010-10-12T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>141.6,12.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-13 08:00</name>
+<TimeSpan>
+     <begin>2010-10-13T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>141.5,11.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-13 14:00</name>
+<TimeSpan>
+     <begin>2010-10-13T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>141.2,11.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-13 20:00</name>
+<TimeSpan>
+     <begin>2010-10-13T20:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>140.8,11.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-13 26:00</name>
+<TimeSpan>
+     <begin>2010-10-13T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>140.3,11.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-14 08:00</name>
+<TimeSpan>
+     <begin>2010-10-14T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>139.8,12.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-14 14:00</name>
+<TimeSpan>
+     <begin>2010-10-14T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>139.2,12.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-14 20:00</name>
+<TimeSpan>
+     <begin>2010-10-14T20:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>138.5,13.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-14 26:00</name>
+<TimeSpan>
+     <begin>2010-10-14T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>137.9,13.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-15 08:00</name>
+<TimeSpan>
+     <begin>2010-10-15T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>137.2,14.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-15 14:00</name>
+<TimeSpan>
+     <begin>2010-10-15T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>136.5,14.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-15 20:00</name>
+<TimeSpan>
+     <begin>2010-10-15T20:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>135.5,15.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-15 26:00</name>
+<TimeSpan>
+     <begin>2010-10-15T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>134.3,16.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-16 08:00</name>
+<TimeSpan>
+     <begin>2010-10-16T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>132.9,17.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-16 14:00</name>
+<TimeSpan>
+     <begin>2010-10-16T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>131.6,18.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-16 20:00</name>
+<TimeSpan>
+     <begin>2010-10-16T20:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>130.2,18.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-16 26:00</name>
+<TimeSpan>
+     <begin>2010-10-16T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>128.8,18.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-17 08:00</name>
+<TimeSpan>
+     <begin>2010-10-17T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>127.4,18.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-17 14:00</name>
+<TimeSpan>
+     <begin>2010-10-17T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>126.2,18.5,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-17 20:00</name>
+<TimeSpan>
+     <begin>2010-10-17T20:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>125.1,18,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-17 26:00</name>
+<TimeSpan>
+     <begin>2010-10-17T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>124.2,17.5,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-18 08:00</name>
+<TimeSpan>
+     <begin>2010-10-18T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>123.2,17.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-18 14:00</name>
+<TimeSpan>
+     <begin>2010-10-18T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>121.9,17,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-18 20:00</name>
+<TimeSpan>
+     <begin>2010-10-18T20:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>120.5,16.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-18 26:00</name>
+<TimeSpan>
+     <begin>2010-10-18T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>119.5,16.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-19 08:00</name>
+<TimeSpan>
+     <begin>2010-10-19T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>118.9,16.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-19 14:00</name>
+<TimeSpan>
+     <begin>2010-10-19T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>118.4,16.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-19 20:00</name>
+<TimeSpan>
+     <begin>2010-10-19T20:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>117.9,16.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-19 26:00</name>
+<TimeSpan>
+     <begin>2010-10-19T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>117.6,17,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-20 08:00</name>
+<TimeSpan>
+     <begin>2010-10-20T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>117.3,17.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-20 14:00</name>
+<TimeSpan>
+     <begin>2010-10-20T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>117.2,17.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-20 20:00</name>
+<TimeSpan>
+     <begin>2010-10-20T20:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>117.2,18.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-20 26:00</name>
+<TimeSpan>
+     <begin>2010-10-20T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>117.3,18.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-21 08:00</name>
+<TimeSpan>
+     <begin>2010-10-21T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>117.5,19.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-21 14:00</name>
+<TimeSpan>
+     <begin>2010-10-21T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>117.7,19.8,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-21 20:00</name>
+<TimeSpan>
+     <begin>2010-10-21T20:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>117.9,20.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-21 26:00</name>
+<TimeSpan>
+     <begin>2010-10-21T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>118.1,20.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-22 08:00</name>
+<TimeSpan>
+     <begin>2010-10-22T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>118.2,21.1,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-22 14:00</name>
+<TimeSpan>
+     <begin>2010-10-22T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>118.3,21.7,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-22 20:00</name>
+<TimeSpan>
+     <begin>2010-10-22T20:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>118.3,22.3,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-22 26:00</name>
+<TimeSpan>
+     <begin>2010-10-22T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>118.2,22.9,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-23 08:00</name>
+<TimeSpan>
+     <begin>2010-10-23T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>118,23.5,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-23 14:00</name>
+<TimeSpan>
+     <begin>2010-10-23T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>117.8,24.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-23 20:00</name>
+<TimeSpan>
+     <begin>2010-10-23T20:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>117.8,24.6,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-23 26:00</name>
+<TimeSpan>
+     <begin>2010-10-23T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>118.1,25,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-24 08:00</name>
+<TimeSpan>
+     <begin>2010-10-24T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>118.6,25.4,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010-10-24 14:00</name>
+<TimeSpan>
+     <begin>2010-10-24T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<description><![CDATA[<table border="1"><tr><td colspan="2" align="center"><br>10/21～10/23</br>
+</td></tr><tr><td>颱風名稱</td><td>2010梅姬</td>
+</tr><tr><td>近台強度</td><td>中度</td>
+</tr><tr><td>侵台路徑</td><td>9</td>
+</tr><tr><td>災害概況</td><td>受東北季風及颱風影響，北臺灣降下豪雨，造成宜蘭地區淹水、土石流及蘇花公路多處坍方等嚴重災情。計有38人死亡，農損逾13億元。</td>
+</tr><td colspan="2" align="center"> <a href="http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_%e6%a2%85%e5%a7%ac.pdf" Target ="_blank" > 整體說明</a></td></tr></table>]]></description>
+<styleUrl>#point</styleUrl>
+<Point><coordinates>118.6,26.2,0</coordinates></Point>
+</Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-11T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+145,12.7,0 144.3,12.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-12T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+144.3,12.6,0 143.5,12.5,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-12T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+143.5,12.5,0 142.8,12.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-12T20:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+142.8,12.3,0 142.1,12.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-12T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+142.1,12.1,0 141.6,12.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-13T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+141.6,12.1,0 141.5,11.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-13T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+141.5,11.8,0 141.2,11.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-13T20:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+141.2,11.8,0 140.8,11.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-13T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+140.8,11.7,0 140.3,11.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-14T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+140.3,11.9,0 139.8,12.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-14T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.8,12.1,0 139.2,12.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-14T20:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+139.2,12.7,0 138.5,13.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-14T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+138.5,13.1,0 137.9,13.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-15T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+137.9,13.6,0 137.2,14.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-15T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+137.2,14.2,0 136.5,14.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-15T20:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+136.5,14.9,0 135.5,15.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-15T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+135.5,15.8,0 134.3,16.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-16T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+134.3,16.7,0 132.9,17.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-16T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+132.9,17.4,0 131.6,18.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-16T20:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+131.6,18.1,0 130.2,18.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-16T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+130.2,18.4,0 128.8,18.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-17T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+128.8,18.7,0 127.4,18.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-17T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+127.4,18.7,0 126.2,18.5,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-17T20:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+126.2,18.5,0 125.1,18,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-17T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+125.1,18,0 124.2,17.5,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-18T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+124.2,17.5,0 123.2,17.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-18T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+123.2,17.3,0 121.9,17,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-18T20:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+121.9,17,0 120.5,16.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-18T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+120.5,16.8,0 119.5,16.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-19T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+119.5,16.4,0 118.9,16.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-19T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+118.9,16.2,0 118.4,16.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-19T20:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+118.4,16.6,0 117.9,16.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-19T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+117.9,16.6,0 117.6,17,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-20T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+117.6,17,0 117.3,17.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-20T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+117.3,17.3,0 117.2,17.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-20T20:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+117.2,17.7,0 117.2,18.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-20T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+117.2,18.3,0 117.3,18.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-21T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+117.3,18.9,0 117.5,19.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-21T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+117.5,19.4,0 117.7,19.8,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-21T20:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+117.7,19.8,0 117.9,20.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-21T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+117.9,20.2,0 118.1,20.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-22T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+118.1,20.6,0 118.2,21.1,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-22T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+118.2,21.1,0 118.3,21.7,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-22T20:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+118.3,21.7,0 118.3,22.3,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-22T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+118.3,22.3,0 118.2,22.9,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-23T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+118.2,22.9,0 118,23.5,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-23T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+118,23.5,0 117.8,24.2,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-23T20:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+117.8,24.2,0 117.8,24.6,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-23T26:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+117.8,24.6,0 118.1,25,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-24T08:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+118.1,25,0 118.6,25.4,0 
+</coordinates>
+</LineString> </Placemark><Placemark>
+<name>2010梅姬</name>
+<TimeSpan>
+     <begin>2010-10-24T14:00</begin>
+     <end>2010-10-24T14:00</end>
+</TimeSpan>
+<Style id="line"><IconStyle><scale>0.6</scale><Icon><href>http://satis.ncdr.nat.gov.tw/kml/images/typhoon.png</href></Icon></IconStyle><LineStyle>
+<color>ff0000ff</color>
+</LineStyle></Style>
+<styleUrl>#line</styleUrl>
+<LineString>
+<tessellate>1</tessellate>
+<coordinates>
+118.6,25.4,0 118.6,26.2,0 
+</coordinates>
+</LineString> </Placemark><GroundOverlay>
+<name>2010梅姬</name>
+<color>70ffffff</color>
+<Icon>
+<href>http://140.110.141.215/ncdrjson/histyphoon/2010/Typhoon_2010_1013_梅姬.png</href>
+<viewBoundScale>0.75</viewBoundScale>
+ </Icon>
+<LatLonBox>
+<north>25.70773235799075</north>
+<south>21.63852184125291</south>
+<east>122.3638832650535</east>
+<west>119.1966767800119</west>
+<rotation>0</rotation>
+</LatLonBox>
+</GroundOverlay></Document>
+</kml>
